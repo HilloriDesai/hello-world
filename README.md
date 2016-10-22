@@ -2,4 +2,4 @@
 Beginning
 
 Hi
-This is my first GitHub Project.
+I am practicing.
